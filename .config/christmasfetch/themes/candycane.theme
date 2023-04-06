@@ -1,0 +1,6 @@
+  ${WHITE} _${RED}_${WHITE}_${RED}_	  ${RED}Christmas${WHITE}@${RED}${YEAR}
+  ${WHITE}/${RED}~${WHITE}_${RED}_${WHITE}~${RED}|  ${LIGHTS}
+  ${RED}|${WHITE}|  ${RED}|${WHITE}|  ${WHITE}Is ${RED}on: ${WHITE}${DAY}
+  ${WHITE}|${RED}|	  ${RED}Is ${WHITE}in: ${RED}${UNTIL} ${WHITE}days
+  ${RED}|${WHITE}|	  ${WHITE}Today ${RED}is: ${WHITE}${DATE}
+  ${WHITE}|${RED}|	  ${RED}Gift ${WHITE}idea: ${RED}${GIFT}

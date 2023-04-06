@@ -1,0 +1,6 @@
+     ${YELLOW}*     ${RED}Christmas${GREEN}@${RED}${YEAR}
+    ${GREEN}/~\    ${LIGHTS}
+   ${GREEN}/~~${MAGENTA}o${GREEN}\   Is on: ${YELLOW}${DAY}
+  ${GREEN}/~${CYAN}o${GREEN}~~~\  Is in: ${YELLOW}${UNTIL} days
+ ${GREEN}/~~~~~${RED}o${GREEN}~\ Today is: ${YELLOW}${DATE}
+    ${YELLOW}|||    ${GREEN}Gift idea: ${YELLOW}${GIFT}
